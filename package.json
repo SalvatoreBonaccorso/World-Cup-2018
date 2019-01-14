@@ -1,0 +1,33 @@
+{
+  "name": "worl_cup_2018",
+  "version": "1.0.0",
+  "description": "a simple test of vue.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salvatore bonaccorso",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "cors": "^2.8.5",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.14.6",
+    "vue": "^2.5.22",
+    "vue-resource": "^1.5.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "world",
+    "cup",
+    "2018"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvatoreBonaccorso/World-Cup-2018.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SalvatoreBonaccorso/World-Cup-2018/issues"
+  },
+  "homepage": "https://github.com/SalvatoreBonaccorso/World-Cup-2018#readme"
+}
